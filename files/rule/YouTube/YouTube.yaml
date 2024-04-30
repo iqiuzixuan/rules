@@ -1,0 +1,3 @@
+payload:
+  - 'DOMAIN-KEYWORD,youtube'
+  - 'IP-CIDR6,2620:120:e000::/40'
